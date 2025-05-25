@@ -1,65 +1,45 @@
-👋 Hi, I’m Keerthana K Kumar
-AI/ML Engineer | Data Scientist | Open-Source Contributor
+# 👋 Hi, I’m Keerthana K Kumar  
+**AI/ML Engineer | Data Scientist | Open-Source Contributor**  
 
-Passionate about building intelligent systems and leveraging cutting-edge AI/ML technologies to solve real-world problems. Experienced in computer vision, NLP, LLMs, and data engineering with a strong foundation in mathematics and algorithms.
+Passionate about building intelligent systems with cutting-edge AI/ML technologies.  
 
-🔗 Connect with me:
-LinkedIn
-Portfolio
-📫 Email: keerthana.kumathkumar@gmail.com
+🔗 **Connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthana-k-kumar-2k)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=flat&logo=hugo&logoColor=white)](https://keerthana-data-scientist.netlify.app/)  
+📫 **Email:** keerthana.kumathkumar@gmail.com  
 
-🛠️ Skills & Tools
-Programming: Python, R, MATLAB, C
-ML/DL: TensorFlow, PyTorch, Scikit-Learn, HuggingFace, NLP, Computer Vision
-LLM & AI Tools: LangChain, LangGraph, Groq, Vector Databases, Agentic Workflows
-Data Engineering: Hadoop, Spark, SQL, Data Pipelines
-DevOps/MLOps: Docker, Git, CI/CD, FastAPI, AWS
-Visualization: Matplotlib, Seaborn, PowerBI
+---
 
-💼 Experience
-Data Engineer Intern @ Quadtri Technologies (Dec 2024 - Mar 2025)
-Researched and deployed YOLO-based object detection models for real-world applications.
+## 🛠️ **Skills & Tools**  
+### **Programming**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
 
-Optimized deep learning models for anomaly detection and automated monitoring.
+### **ML/DL**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
 
-Data Science Intern @ Luminar Technohub (Jun 2024 - Dec 2024)
-Led a team of 14 to deliver a travel guide project, reducing data processing time by 30%.
+### **LLM Tools**  
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat&logo=chainlink&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-00A550?style=flat&logo=groq&logoColor=white)  
 
-Built Rasa chatbots with Flask, improving response time by 40%.
+---
 
-🚀 Projects
-🤖 Personal Agentic AI Chatbot
+## 💼 **Experience**  
+### **Data Engineer Intern** @ Quadtri Technologies  
+- Deployed YOLO-based object detection models.  
 
-Multi-LLM orchestration (Llama 3, Mistral) using LangGraph and Groq.
+### **Data Science Intern** @ Luminar Technohub  
+- Led a team of 14; built Rasa chatbots (40% faster responses).  
 
-Deployed with Docker on AWS.
+---
 
-👥 Face Recognition System
+## 🚀 **Projects**  
+**🤖 Personal Agentic AI Chatbot**  
+- Multi-LLM (Llama 3, Mistral) with LangGraph.  
 
-Real-time face detection (MTCNN) + recognition (FaceNet) with cosine similarity.
+**👥 Face Recognition System**  
+- MTCNN + FaceNet + cosine similarity.  
 
-💬 Rasa Chatbot for Luminar
+---
 
-Integrated NLU with Flask and speech recognition for seamless UX.
-
-📚 Education
-Big Data & Data Science Certification, Luminar Technolab (2023-2024)
-
-Bachelor of Mathematics, Amrita Vishwa Vidyapeetham (2020-2023)
-
-
-
-<!--
-**keerthanakkumar/keerthanakkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 **Education**  
+- **Big Data Certification**, Luminar Technolab (2023-2024)  
+- **B.Sc Mathematics**, Amrita Vishwa Vidyapeetham (2020-2023)  
